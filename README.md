@@ -18,7 +18,7 @@ The following technologies and libraries were used in the development of Nature:
 
 ## Features
 
-- Parallax animation
+- Parallax effect
 - Typing animation
 - Image accordion
 
@@ -28,7 +28,7 @@ To run the app locally, follow these steps:
 
 Clone the repository: 
 ```sh
-git clone https://github.com/parkingbezplatny/app.git
+git clone https://github.com/Zayooo00/nature.git
 ```
 Navigate to the project directory: 
 ```sh
